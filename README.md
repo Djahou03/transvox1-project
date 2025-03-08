@@ -18,7 +18,7 @@ TransVox est une application de traduction automatique et de transcription vocal
 
 1. Clonez le repository :
     ```bash
-    git clone https://github.com/username/transvox-project.git
+    git clone https://github.com/Djahou03/transvox-project.git
     ```
 
 
